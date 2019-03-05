@@ -1,6 +1,6 @@
 {
   "name": "ksp-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a express web site with ksp framework",
   "main": "index.js",
   "repository": "github:dotjov/ksp-express",
